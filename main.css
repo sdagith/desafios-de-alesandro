@@ -150,13 +150,12 @@ footer {
     padding: 0px 10px;    
 }
 
-
 .img-resize {
     max-width: 40%;
     max-height: 40%;
     border: solid 1px  #96ebff;
     margin: 3px;
-    }
+}
 
 .section-img-galeria {
     display: flex;
@@ -208,6 +207,14 @@ form {
 
 .div-contacto {
     margin: 10px;
+}
+
+.section-nosotros {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
 }
 
 /*Media queries*/

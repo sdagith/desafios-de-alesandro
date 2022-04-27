@@ -176,6 +176,13 @@ table {
     border: #4ABBD7 5px solid;
 }
 
+.text-desarrollo-tabla {
+    font-size: 1rem;
+    line-height: 2;
+    text-align: justify;
+    color: whitesmoke;
+}
+
 th {
     border: #96ebff 3px solid;
     padding: 10px;

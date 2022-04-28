@@ -213,8 +213,13 @@ form {
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-around;
     text-align: center;
+    line-height: 1.5;    
+}
+
+.div-nosotros {
+    padding: 50px;
 }
 
 /*Media queries*/

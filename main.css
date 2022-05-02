@@ -97,6 +97,11 @@ a {
     color: #E0EFF3;
 }
 
+.efectonav:hover {
+    transform: scale(120%);
+    text-decoration-line: underline;
+}
+
 section {
     margin: 20px;
 }
